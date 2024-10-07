@@ -22,6 +22,6 @@
     <P>GBP : <?php echo $data ['bpi'] ['GBP'] ['rate']; ?> </p>
     <P>EUR : <?php echo $data ['bpi'] ['EUR'] ['rate']; ?> </p>
     
-
+    
 </body>
 </html>
